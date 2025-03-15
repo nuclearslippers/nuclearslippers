@@ -11,11 +11,11 @@
 ---
 #### :books: My blogs
 <!-- BLOG-POST-LIST:START -->
-- [paper](https://nuclearslippers.github.io/paper/)
-- [mamba](https://nuclearslippers.github.io/mamba/)
+- [一些学习思路](https://nuclearslippers.github.io/paper/)
+- [mamba模块的简单原理](https://nuclearslippers.github.io/mamba/)
 - [雷达相机的标定](https://nuclearslippers.github.io/calib/)
 - [nn_trick](https://nuclearslippers.github.io/nn-trick/)
-- [MOT](https://nuclearslippers.github.io/MOT/)
+- [MOT任务的主要流程](https://nuclearslippers.github.io/MOT/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
