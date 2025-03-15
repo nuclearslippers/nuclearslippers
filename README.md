@@ -18,9 +18,6 @@
 - [MOT](https://nuclearslippers.github.io/MOT/)
 <!-- BLOG-POST-LIST:END -->
 
-#### 
-其它
-
-
-
+---
+#### :computer: Recent state
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nuclearslippers&theme=github-dark-dimmed)
