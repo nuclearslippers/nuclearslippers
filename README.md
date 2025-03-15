@@ -1,4 +1,7 @@
-## :two_men_holding_hands: Hello,welcome
+## :two_men_holding_hands: Hello, Welcome
+---
+
+#### :boy: About me
 - :mag_right: I'm now working on multi-objects' tracking and sensors fusion
 - :blue_book: I'm currently pursuing a master's degree in BIT
 - :yum: It's glad to chat with you, feel free to contact me
