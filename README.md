@@ -2,20 +2,27 @@
 ---
 
 #### :boy: About me
-- :mag_right: I'm now working on multi-objects' tracking and sensors fusion
-- :blue_book: I'm currently pursuing a master's degree in BIT
-- :yum: It's glad to chat with you, feel free to contact me
+- 🤖 I'm actively exploring LLM systems, with a focus on agentic intelligence and real-world applications  
+- 🔍 My research focuses on multi-object tracking (MOT) and multi-sensor fusion  
+- 📘 I'm currently pursuing a master's degree at BIT
+- 😊 Open to discussions — feel free to reach out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearslippers&&layout=compact)
 
 ---
-#### :books: My blogs
+#### 🌐 Personal Website
+- https://xujingchen.site  
+
+#### 📝 Notes & Writings
+- 📘 Study Notes: https://xujingchen.site/blog/  
+- 📄 Paper Insights: https://xujingchen.site/paper/  
+
+#### 📚 Featured Posts
 <!-- BLOG-POST-LIST:START -->
-- [onnx](https://nuclearslippers.github.io/onnx/)
-- [mmlab学习笔记](https://nuclearslippers.github.io/mmlab/)
-- [一些学习思路](https://nuclearslippers.github.io/paper/)
-- [mamba模块的简单原理](https://nuclearslippers.github.io/mamba/)
-- [雷达相机的标定](https://nuclearslippers.github.io/calib/)
+- [Linux System Reinstallation Guide](https://xujingchen.site/blog/2025/12/11/LINUX/%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/)  
+- [Deep Learning Environment Setup](https://xujingchen.site/blog/2025/12/15/NeuralNetwork/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/)  
+- [Linux Command Cheat Sheet](https://xujingchen.site/blog/2025/12/15/LINUX/linux%E6%8C%87%E4%BB%A4%E9%9B%86/)  
+- [SSH & Linux Service Notes](https://xujingchen.site/blog/2025/12/12/LINUX/SSH%E5%B0%8F%E7%AC%94%E8%AE%B0/)  
 <!-- BLOG-POST-LIST:END -->
 
 ---
